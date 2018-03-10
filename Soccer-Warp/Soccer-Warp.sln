@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soccer-Warp", "Assembly-CSharp.csproj", "{FA86FB38-FE41-0383-219C-5BE032CFBF12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soccer-Warp", "Assembly-CSharp-firstpass.csproj", "{C90D4703-6AB2-F887-773D-691EB5BB1DBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soccer-Warp", "Assembly-CSharp-Editor-firstpass.csproj", "{05A99812-E049-0817-F658-B1A97A0596AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA86FB38-FE41-0383-219C-5BE032CFBF12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA86FB38-FE41-0383-219C-5BE032CFBF12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA86FB38-FE41-0383-219C-5BE032CFBF12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA86FB38-FE41-0383-219C-5BE032CFBF12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C90D4703-6AB2-F887-773D-691EB5BB1DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C90D4703-6AB2-F887-773D-691EB5BB1DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C90D4703-6AB2-F887-773D-691EB5BB1DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C90D4703-6AB2-F887-773D-691EB5BB1DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05A99812-E049-0817-F658-B1A97A0596AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A99812-E049-0817-F658-B1A97A0596AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A99812-E049-0817-F658-B1A97A0596AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05A99812-E049-0817-F658-B1A97A0596AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
